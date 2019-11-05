@@ -221,6 +221,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "1016745410@qq.com";
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = VZJSVGQQGV;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -458,6 +461,7 @@
 			baseConfigurationReference = 0E2AF185A217AEDBF1E49E04 /* Pods-LittleDefend_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = VZJSVGQQGV;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LittleDefend/LittleDefend-Prefix.pch";
 				INFOPLIST_FILE = "LittleDefend/LittleDefend-Info.plist";
@@ -474,6 +478,7 @@
 			baseConfigurationReference = 2E1978510F36213968FE7A85 /* Pods-LittleDefend_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = VZJSVGQQGV;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LittleDefend/LittleDefend-Prefix.pch";
 				INFOPLIST_FILE = "LittleDefend/LittleDefend-Info.plist";

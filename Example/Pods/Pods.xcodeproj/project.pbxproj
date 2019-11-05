@@ -8,20 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		0825E25484E7A89D66DE4A04534CE499 /* LittleDefend-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EF7938F60036BDD87C88A15025CFB923 /* LittleDefend-dummy.m */; };
-		4DCCB8E12371586900DAD6A1 /* NSMutableDictionary+defend.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DCCB8D52371586800DAD6A1 /* NSMutableDictionary+defend.m */; };
-		4DCCB8E22371586900DAD6A1 /* NSObject+Runtime.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DCCB8D62371586800DAD6A1 /* NSObject+Runtime.m */; };
-		4DCCB8E32371586900DAD6A1 /* NSMutableDictionary+defend.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DCCB8D72371586800DAD6A1 /* NSMutableDictionary+defend.h */; };
-		4DCCB8E42371586900DAD6A1 /* NSObject+defend.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DCCB8D82371586800DAD6A1 /* NSObject+defend.h */; };
-		4DCCB8E52371586900DAD6A1 /* NSString+defend.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DCCB8D92371586800DAD6A1 /* NSString+defend.m */; };
-		4DCCB8E62371586900DAD6A1 /* NSString+defend.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DCCB8DA2371586900DAD6A1 /* NSString+defend.h */; };
-		4DCCB8E72371586900DAD6A1 /* NSObject+Runtime.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DCCB8DB2371586900DAD6A1 /* NSObject+Runtime.h */; };
-		4DCCB8E82371586900DAD6A1 /* NSMutableArray+defend.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DCCB8DC2371586900DAD6A1 /* NSMutableArray+defend.h */; };
-		4DCCB8E92371586900DAD6A1 /* NSArray+defend.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DCCB8DD2371586900DAD6A1 /* NSArray+defend.h */; };
-		4DCCB8EA2371586900DAD6A1 /* NSObject+defend.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DCCB8DE2371586900DAD6A1 /* NSObject+defend.m */; };
-		4DCCB8EB2371586900DAD6A1 /* NSArray+defend.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DCCB8DF2371586900DAD6A1 /* NSArray+defend.m */; };
-		4DCCB8EC2371586900DAD6A1 /* NSMutableArray+defend.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DCCB8E02371586900DAD6A1 /* NSMutableArray+defend.m */; };
-		4DCCB8EF2371587400DAD6A1 /* BZCommonAlertView.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DCCB8ED2371587400DAD6A1 /* BZCommonAlertView.h */; };
-		4DCCB8F02371587400DAD6A1 /* BZCommonAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DCCB8EE2371587400DAD6A1 /* BZCommonAlertView.m */; };
+		4DCCB93F2371669900DAD6A1 /* NSMutableDictionary+defend.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DCCB9312371669900DAD6A1 /* NSMutableDictionary+defend.m */; };
+		4DCCB9402371669900DAD6A1 /* NSArray+defend.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DCCB9322371669900DAD6A1 /* NSArray+defend.h */; };
+		4DCCB9412371669900DAD6A1 /* NSString+defend.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DCCB9332371669900DAD6A1 /* NSString+defend.h */; };
+		4DCCB9422371669900DAD6A1 /* BZCommonAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DCCB9342371669900DAD6A1 /* BZCommonAlertView.m */; };
+		4DCCB9432371669900DAD6A1 /* BZCommonAlertView.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DCCB9352371669900DAD6A1 /* BZCommonAlertView.h */; };
+		4DCCB9442371669900DAD6A1 /* NSObject+Runtime.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DCCB9362371669900DAD6A1 /* NSObject+Runtime.h */; };
+		4DCCB9452371669900DAD6A1 /* NSObject+Runtime.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DCCB9372371669900DAD6A1 /* NSObject+Runtime.m */; };
+		4DCCB9462371669900DAD6A1 /* NSMutableArray+defend.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DCCB9382371669900DAD6A1 /* NSMutableArray+defend.m */; };
+		4DCCB9472371669900DAD6A1 /* NSObject+defend.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DCCB9392371669900DAD6A1 /* NSObject+defend.m */; };
+		4DCCB9482371669900DAD6A1 /* NSArray+defend.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DCCB93A2371669900DAD6A1 /* NSArray+defend.m */; };
+		4DCCB9492371669900DAD6A1 /* NSObject+defend.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DCCB93B2371669900DAD6A1 /* NSObject+defend.h */; };
+		4DCCB94A2371669900DAD6A1 /* NSString+defend.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DCCB93C2371669900DAD6A1 /* NSString+defend.m */; };
+		4DCCB94B2371669900DAD6A1 /* NSMutableArray+defend.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DCCB93D2371669900DAD6A1 /* NSMutableArray+defend.h */; };
+		4DCCB94C2371669900DAD6A1 /* NSMutableDictionary+defend.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DCCB93E2371669900DAD6A1 /* NSMutableDictionary+defend.h */; };
 		51D155F72F48DF339E9C9BE8FCD40E9B /* Pods-LittleDefend_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B49DF1ED07EBA2C5403BB263A9D94D3 /* Pods-LittleDefend_Tests-dummy.m */; };
 		73873D909C56CACAEEDC4B96028D0809 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		9CC59C2E86296D7EBC727D7A100B474A /* LittleDefend-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 360CDC49661BA2961943A5F632D6F1DF /* LittleDefend-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -60,20 +60,20 @@
 		360CDC49661BA2961943A5F632D6F1DF /* LittleDefend-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LittleDefend-umbrella.h"; sourceTree = "<group>"; };
 		37766D00024951B0E750B6DA945FF73E /* LittleDefend.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = LittleDefend.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		40BB0DD4185EAEF3FF9D724200B4C5E3 /* Pods-LittleDefend_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LittleDefend_Example-umbrella.h"; sourceTree = "<group>"; };
-		4DCCB8D52371586800DAD6A1 /* NSMutableDictionary+defend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableDictionary+defend.m"; sourceTree = "<group>"; };
-		4DCCB8D62371586800DAD6A1 /* NSObject+Runtime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+Runtime.m"; sourceTree = "<group>"; };
-		4DCCB8D72371586800DAD6A1 /* NSMutableDictionary+defend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableDictionary+defend.h"; sourceTree = "<group>"; };
-		4DCCB8D82371586800DAD6A1 /* NSObject+defend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+defend.h"; sourceTree = "<group>"; };
-		4DCCB8D92371586800DAD6A1 /* NSString+defend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+defend.m"; sourceTree = "<group>"; };
-		4DCCB8DA2371586900DAD6A1 /* NSString+defend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+defend.h"; sourceTree = "<group>"; };
-		4DCCB8DB2371586900DAD6A1 /* NSObject+Runtime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+Runtime.h"; sourceTree = "<group>"; };
-		4DCCB8DC2371586900DAD6A1 /* NSMutableArray+defend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableArray+defend.h"; sourceTree = "<group>"; };
-		4DCCB8DD2371586900DAD6A1 /* NSArray+defend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+defend.h"; sourceTree = "<group>"; };
-		4DCCB8DE2371586900DAD6A1 /* NSObject+defend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+defend.m"; sourceTree = "<group>"; };
-		4DCCB8DF2371586900DAD6A1 /* NSArray+defend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+defend.m"; sourceTree = "<group>"; };
-		4DCCB8E02371586900DAD6A1 /* NSMutableArray+defend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableArray+defend.m"; sourceTree = "<group>"; };
-		4DCCB8ED2371587400DAD6A1 /* BZCommonAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BZCommonAlertView.h; sourceTree = "<group>"; };
-		4DCCB8EE2371587400DAD6A1 /* BZCommonAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BZCommonAlertView.m; sourceTree = "<group>"; };
+		4DCCB9312371669900DAD6A1 /* NSMutableDictionary+defend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSMutableDictionary+defend.m"; path = "LittleDefend/Classes/NSMutableDictionary+defend.m"; sourceTree = "<group>"; };
+		4DCCB9322371669900DAD6A1 /* NSArray+defend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSArray+defend.h"; path = "LittleDefend/Classes/NSArray+defend.h"; sourceTree = "<group>"; };
+		4DCCB9332371669900DAD6A1 /* NSString+defend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSString+defend.h"; path = "LittleDefend/Classes/NSString+defend.h"; sourceTree = "<group>"; };
+		4DCCB9342371669900DAD6A1 /* BZCommonAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BZCommonAlertView.m; path = LittleDefend/Classes/BZCommonAlertView.m; sourceTree = "<group>"; };
+		4DCCB9352371669900DAD6A1 /* BZCommonAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BZCommonAlertView.h; path = LittleDefend/Classes/BZCommonAlertView.h; sourceTree = "<group>"; };
+		4DCCB9362371669900DAD6A1 /* NSObject+Runtime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSObject+Runtime.h"; path = "LittleDefend/Classes/NSObject+Runtime.h"; sourceTree = "<group>"; };
+		4DCCB9372371669900DAD6A1 /* NSObject+Runtime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSObject+Runtime.m"; path = "LittleDefend/Classes/NSObject+Runtime.m"; sourceTree = "<group>"; };
+		4DCCB9382371669900DAD6A1 /* NSMutableArray+defend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSMutableArray+defend.m"; path = "LittleDefend/Classes/NSMutableArray+defend.m"; sourceTree = "<group>"; };
+		4DCCB9392371669900DAD6A1 /* NSObject+defend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSObject+defend.m"; path = "LittleDefend/Classes/NSObject+defend.m"; sourceTree = "<group>"; };
+		4DCCB93A2371669900DAD6A1 /* NSArray+defend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSArray+defend.m"; path = "LittleDefend/Classes/NSArray+defend.m"; sourceTree = "<group>"; };
+		4DCCB93B2371669900DAD6A1 /* NSObject+defend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSObject+defend.h"; path = "LittleDefend/Classes/NSObject+defend.h"; sourceTree = "<group>"; };
+		4DCCB93C2371669900DAD6A1 /* NSString+defend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSString+defend.m"; path = "LittleDefend/Classes/NSString+defend.m"; sourceTree = "<group>"; };
+		4DCCB93D2371669900DAD6A1 /* NSMutableArray+defend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSMutableArray+defend.h"; path = "LittleDefend/Classes/NSMutableArray+defend.h"; sourceTree = "<group>"; };
+		4DCCB93E2371669900DAD6A1 /* NSMutableDictionary+defend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSMutableDictionary+defend.h"; path = "LittleDefend/Classes/NSMutableDictionary+defend.h"; sourceTree = "<group>"; };
 		5B28ECAEECD25D16BB702D8D864CE650 /* Pods-LittleDefend_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LittleDefend_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		69170CD1B1A55A178CEDD262B86BE8F9 /* Pods-LittleDefend_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LittleDefend_Example-dummy.m"; sourceTree = "<group>"; };
 		6B49DF1ED07EBA2C5403BB263A9D94D3 /* Pods-LittleDefend_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LittleDefend_Tests-dummy.m"; sourceTree = "<group>"; };
@@ -210,20 +210,20 @@
 		CC6A6B985C11E67F0D635AD3821B601C /* LittleDefend */ = {
 			isa = PBXGroup;
 			children = (
-				4DCCB8DD2371586900DAD6A1 /* NSArray+defend.h */,
-				4DCCB8DF2371586900DAD6A1 /* NSArray+defend.m */,
-				4DCCB8DC2371586900DAD6A1 /* NSMutableArray+defend.h */,
-				4DCCB8E02371586900DAD6A1 /* NSMutableArray+defend.m */,
-				4DCCB8D72371586800DAD6A1 /* NSMutableDictionary+defend.h */,
-				4DCCB8D52371586800DAD6A1 /* NSMutableDictionary+defend.m */,
-				4DCCB8D82371586800DAD6A1 /* NSObject+defend.h */,
-				4DCCB8DE2371586900DAD6A1 /* NSObject+defend.m */,
-				4DCCB8DB2371586900DAD6A1 /* NSObject+Runtime.h */,
-				4DCCB8D62371586800DAD6A1 /* NSObject+Runtime.m */,
-				4DCCB8DA2371586900DAD6A1 /* NSString+defend.h */,
-				4DCCB8D92371586800DAD6A1 /* NSString+defend.m */,
-				4DCCB8ED2371587400DAD6A1 /* BZCommonAlertView.h */,
-				4DCCB8EE2371587400DAD6A1 /* BZCommonAlertView.m */,
+				4DCCB9352371669900DAD6A1 /* BZCommonAlertView.h */,
+				4DCCB9342371669900DAD6A1 /* BZCommonAlertView.m */,
+				4DCCB9322371669900DAD6A1 /* NSArray+defend.h */,
+				4DCCB93A2371669900DAD6A1 /* NSArray+defend.m */,
+				4DCCB93D2371669900DAD6A1 /* NSMutableArray+defend.h */,
+				4DCCB9382371669900DAD6A1 /* NSMutableArray+defend.m */,
+				4DCCB93E2371669900DAD6A1 /* NSMutableDictionary+defend.h */,
+				4DCCB9312371669900DAD6A1 /* NSMutableDictionary+defend.m */,
+				4DCCB93B2371669900DAD6A1 /* NSObject+defend.h */,
+				4DCCB9392371669900DAD6A1 /* NSObject+defend.m */,
+				4DCCB9362371669900DAD6A1 /* NSObject+Runtime.h */,
+				4DCCB9372371669900DAD6A1 /* NSObject+Runtime.m */,
+				4DCCB9332371669900DAD6A1 /* NSString+defend.h */,
+				4DCCB93C2371669900DAD6A1 /* NSString+defend.m */,
 				D96AB94FA12E89488B94D81738C4042B /* Pod */,
 				0823ED7EFEB086945762161A9E210CD2 /* Support Files */,
 			);
@@ -267,14 +267,14 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4DCCB8E82371586900DAD6A1 /* NSMutableArray+defend.h in Headers */,
-				4DCCB8EF2371587400DAD6A1 /* BZCommonAlertView.h in Headers */,
-				4DCCB8E62371586900DAD6A1 /* NSString+defend.h in Headers */,
-				4DCCB8E72371586900DAD6A1 /* NSObject+Runtime.h in Headers */,
-				4DCCB8E42371586900DAD6A1 /* NSObject+defend.h in Headers */,
-				4DCCB8E32371586900DAD6A1 /* NSMutableDictionary+defend.h in Headers */,
-				4DCCB8E92371586900DAD6A1 /* NSArray+defend.h in Headers */,
+				4DCCB9492371669900DAD6A1 /* NSObject+defend.h in Headers */,
 				9CC59C2E86296D7EBC727D7A100B474A /* LittleDefend-umbrella.h in Headers */,
+				4DCCB94B2371669900DAD6A1 /* NSMutableArray+defend.h in Headers */,
+				4DCCB9442371669900DAD6A1 /* NSObject+Runtime.h in Headers */,
+				4DCCB94C2371669900DAD6A1 /* NSMutableDictionary+defend.h in Headers */,
+				4DCCB9432371669900DAD6A1 /* BZCommonAlertView.h in Headers */,
+				4DCCB9402371669900DAD6A1 /* NSArray+defend.h in Headers */,
+				4DCCB9412371669900DAD6A1 /* NSString+defend.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -418,14 +418,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4DCCB8F02371587400DAD6A1 /* BZCommonAlertView.m in Sources */,
-				4DCCB8E22371586900DAD6A1 /* NSObject+Runtime.m in Sources */,
+				4DCCB9452371669900DAD6A1 /* NSObject+Runtime.m in Sources */,
+				4DCCB9422371669900DAD6A1 /* BZCommonAlertView.m in Sources */,
 				0825E25484E7A89D66DE4A04534CE499 /* LittleDefend-dummy.m in Sources */,
-				4DCCB8E52371586900DAD6A1 /* NSString+defend.m in Sources */,
-				4DCCB8EA2371586900DAD6A1 /* NSObject+defend.m in Sources */,
-				4DCCB8E12371586900DAD6A1 /* NSMutableDictionary+defend.m in Sources */,
-				4DCCB8EC2371586900DAD6A1 /* NSMutableArray+defend.m in Sources */,
-				4DCCB8EB2371586900DAD6A1 /* NSArray+defend.m in Sources */,
+				4DCCB9472371669900DAD6A1 /* NSObject+defend.m in Sources */,
+				4DCCB93F2371669900DAD6A1 /* NSMutableDictionary+defend.m in Sources */,
+				4DCCB94A2371669900DAD6A1 /* NSString+defend.m in Sources */,
+				4DCCB9462371669900DAD6A1 /* NSMutableArray+defend.m in Sources */,
+				4DCCB9482371669900DAD6A1 /* NSArray+defend.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,16 @@
+PODS:
+  - LittleDefend (0.1.0)
+
+DEPENDENCIES:
+  - LittleDefend (from `../`)
+
+EXTERNAL SOURCES:
+  LittleDefend:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LittleDefend: 3eba18ff2ea105c94f02cd9b891b794aa6e77e75
+
+PODFILE CHECKSUM: a32075292767f049805a179fa982965a8b5781df
+
+COCOAPODS: 1.8.3

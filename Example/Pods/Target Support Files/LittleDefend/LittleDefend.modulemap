@@ -1,0 +1,6 @@
+framework module LittleDefend {
+  umbrella header "LittleDefend-umbrella.h"
+
+  export *
+  module * { export * }
+}
